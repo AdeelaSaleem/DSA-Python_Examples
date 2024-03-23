@@ -27,7 +27,7 @@ else:
 
 ## Dry Run for find_max_location Function
 
-**Input Data:**
+# Input Data:
 data_array = [3, 7, 2, 8, 5]
 
 
